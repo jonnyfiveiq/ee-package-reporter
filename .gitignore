@@ -1,0 +1,8 @@
+
+# build artifacts
+xml-out/
+ee_diff_report.html
+*.log
+__pycache__/
+*.pyc
+.DS_Store
